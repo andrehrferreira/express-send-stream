@@ -2,7 +2,7 @@
     "name": "express-send-stream",
     "description": "Module for Express 4.x to load large files via xhr",
     "version": "0.1.1",
-    "homepage": "https://github.com/jsrun/express-send-stream",
+    "homepage": "https://github.com/andrehrferreira/express-send-stream",
     "author": "André Ferreira <andrehrf@gmail.com>",
     "license": "MIT",
     "main": "index.js",
@@ -15,9 +15,9 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/jsrun/express-send-stream.git"
+        "url": "https://github.com/andrehrferreira/express-send-stream"
     },
-    "bugs": "https://github.com/jsrun/express-send-stream/issues",
+    "bugs": "https://github.com/andrehrferreira/express-send-stream/issues",
     "dependencies": {
         "express": "^4.13.4",
         "serve-static": "^1.11.1",
